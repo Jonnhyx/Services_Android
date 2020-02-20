@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PAC_Jonatan</string>
+    <string-array name="optionServices">
+        <item>Iniciar Música</item>
+        <item>Detener Música</item>
+        <item>Pausar Música</item>
+    </string-array>
+
+</resources>
